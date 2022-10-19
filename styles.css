@@ -171,32 +171,32 @@ h1{
 }
 
 #leonard{
-  background-image: url(../resorces/Leonard_Hofstadter.jpg);
+  background-image: url(./resorces/Leonard_Hofstadter.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 #sheldon{
-  background-image: url(../resorces/sheldoncooper.jpg );
+  background-image: url(./resorces/sheldoncooper.jpg );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #howard{
-  background-image: url(../resorces/Howardwolowitz.jpg );
+  background-image: url(./resorces/Howardwolowitz.jpg );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #raj{
-  background-image: url(../resorces/Raj_Koothrappali.jpg );
+  background-image: url(./resorces/Raj_Koothrappali.jpg );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 #penny{
-  background-image: url(../resorces/penny.jpg );
+  background-image: url(./resorces/penny.jpg );
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
